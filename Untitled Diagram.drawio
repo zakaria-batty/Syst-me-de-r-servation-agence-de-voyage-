@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-06T20:02:44.125Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="WTPdDzAO705eaqy8mDbt" version="14.1.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-06T20:07:05.605Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Pb_F8yGwUdllHZeVeZNk" version="14.1.8" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2450" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="2935" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -140,14 +140,6 @@
         <mxCell id="tCXqm6LEgj79AjPX_lxv-8" value="administrateur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;glass=0;gradientColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="910" y="370" width="100" height="140" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="Hc-LmsOrH1ffofN5-Mgg" name="Page-2">
-    <mxGraphModel dx="897" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
-      <root>
-        <mxCell id="xTz61H_dz_pgezO0rMoE-0" />
-        <mxCell id="xTz61H_dz_pgezO0rMoE-1" parent="xTz61H_dz_pgezO0rMoE-0" />
       </root>
     </mxGraphModel>
   </diagram>
